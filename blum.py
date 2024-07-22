@@ -1,5 +1,5 @@
-# Made with ❤ by @adearman
-# Join tele channel for update t.me/ghalibie
+# Made with ❤ 
+# Join tele channel for update t.me/scavengerairdrop
 import argparse
 import random
 import requests
