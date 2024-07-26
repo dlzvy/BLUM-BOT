@@ -28,7 +28,7 @@ pip install requests colorama
 ```
 ## clone repository 
 ```bash
-https://github.com/dlzvy/BLUM-BOT.git
+git clone https://github.com/dlzvy/BLUM-BOT.git
 cd BLUM-BOT
 ```
 ### Javascript Command to Get Telegram Data for Desktop
